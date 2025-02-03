@@ -15,6 +15,7 @@ This app uses the `Helsinki-NLP/opus-mt-en-ur` pre-trained model for translation
 To run the app locally, you can install the dependencies by running:
 ```bash
 pip install -r requirements.txt
+```
 
 ## Try the app here
 
